@@ -1,0 +1,53 @@
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+Farouk\ -\ ML/venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Data files (large)
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.npy
+*.npz
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.bin
+
+# Compiled extensions
+*.so
+*.dylib
+
+# IDE
+.idea/
+.vscode/
